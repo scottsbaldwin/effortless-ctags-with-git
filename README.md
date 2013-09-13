@@ -10,7 +10,14 @@ Git Config
 Script Setup
 -----
 
+    $ chmod +x hooks/*
     $ cp -r hooks ~/.git_template
+
+Re-init existing Git repos
+-----
+
+    $ cd YOUR_GIT_REPO
+    $ git init
 
 Resources
 -----
