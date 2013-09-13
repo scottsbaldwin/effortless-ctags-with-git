@@ -1,6 +1,11 @@
 Setup
 =========
 
+Pre-requisite
+-----
+
+    $ brew install ctags
+
 Git Config
 -----
 
